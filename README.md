@@ -6,7 +6,7 @@
 ![image](https://github.com/LEE-hyeon0771/Binary-Classification-with-a-Software-Defects-Dataset_Kaggle/assets/84756586/dd7ce01f-003c-4058-b665-f189d8524dc0)
 
 ## Result
-- 9th / 1702Teams(Top 1%)
+- 9th / 1702 Teams(Top 1%)
 
 ## Tech Stack
 | division        | stack                                                                                                                                                                                                                                                                                                       |
